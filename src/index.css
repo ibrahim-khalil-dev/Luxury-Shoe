@@ -15,19 +15,6 @@
   margin: 0 auto;
 }
 .coral-red {
-  @apply bg-[#7B1E3D];
-}
-.bg-primary {
-  @apply bg-[#ECEEFF];
-}
-.color-red {
-  @apply text-[#7B1E3D];
-}
-.luxury-red {
-  @apply bg-[#7B1E3D];
-}
-
-.coral-red {
   @apply bg-[#FF6452];
 }
 .bg-primary {
@@ -35,8 +22,7 @@
 }
 .color-red {
   @apply text-[#FF6452];
-}
-
+} 
 .hih {
   color: white;
 }
