@@ -22,7 +22,7 @@
 }
 .color-red {
   @apply text-[#FF6452];
-} 
+}
 .hih {
   color: white;
 }
@@ -117,7 +117,8 @@
 }
 
 .bottom-shoeCard {
-  position: absolute; 
+  position: absolute;
+  top: -5%;
 }
 .bg-thumbnail {
   background-image: url("./assets/images/thumbnail-background.svg");
