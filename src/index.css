@@ -118,7 +118,7 @@
 
 .bottom-shoeCard {
   position: absolute;
-  top: -5%;
+  bottom: -5%;
 }
 .bg-thumbnail {
   background-image: url("./assets/images/thumbnail-background.svg");
